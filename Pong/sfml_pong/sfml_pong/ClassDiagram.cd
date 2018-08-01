@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ball" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wAQAgAAIAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ball.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="end_screen" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYBAAAQABAAAQAAAgAAAQAAAABAACAAABAAgAAAAAA=</HashCode>
+      <FileName>end_screen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="entity" Collapsed="true">
+    <Position X="1.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCABAAAAAAAAAAAAAAAAAAAAgAAQAAAAUCAAAAECA=</HashCode>
+      <FileName>entity.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game_screen" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wgYAAARICIQAAQBACAEIBCAgAIDABBCBEBUyagAAIAs=</HashCode>
+      <FileName>game_screen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="current_state" Collapsed="true">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAAAAAAABAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>game_state.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game_state" Collapsed="true">
+    <Position X="5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQIAAAAAAAAAAAAIAAAAAIAAAAAAAAIABEAAAAAAAA=</HashCode>
+      <FileName>game_state.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="menu_screen" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYJAEIQABAAIQAAAEgABQQAAABACSAAABAAIAAAABg=</HashCode>
+      <FileName>menu_screen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="player" Collapsed="true">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAgAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="score" Collapsed="true">
+    <Position X="6.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAABAAIAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>score.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
